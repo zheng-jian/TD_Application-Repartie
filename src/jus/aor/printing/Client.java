@@ -21,7 +21,7 @@ import static jus.aor.printing.Notification.*;
  */
 public class Client {
 	/** 1 second timeout for waiting replies */
-	protected static final int TIMEOUT = 1000;
+	protected static final int TIMEOUT = 1000;666
 	/** la machine supportant le serveur d'impression */
 	private String host = "localhost";
 	/** le port d'installation du serveur d'impression */
